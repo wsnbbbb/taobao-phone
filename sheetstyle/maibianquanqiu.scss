@@ -1,0 +1,217 @@
+.maibianquanqiu {
+    margin-top: .2rem;
+    width: 7.5rem;
+    background-color: #fff;
+    overflow: hidden;
+    position: relative;
+}
+
+.mbqq-con1 {
+    width: 7.5rem;
+    height: 2.5rem;
+    margin-top: .2rem;
+}
+
+.mbqqimg1-txt {
+    display: inline-block;
+    overflow: hidden;
+    font-size: .28rem;
+    height: auto;
+    text-overflow: clip;
+    white-space: nowrap;
+    margin-left: .2rem;
+    margin-top: 1.88rem;
+    color: rgb(255, 255, 255);
+    width: auto;
+    text-align: left;
+    line-height: .34rem;
+    position: absolute;
+}
+
+.mbqqimg2 {
+    display: block;
+    overflow: hidden;
+    height: 2.5rem;
+    width: 2.5rem;
+    position: absolute;
+    right: 0;
+
+    img {
+        width: 2.3rem;
+        height: 1.4rem;
+        margin-left: .1rem;
+    }
+
+    div {
+        height: .95rem;
+        width: 2.3rem;
+        background-color: #fff;
+        color: rgb(153, 153, 153);
+        font-size: .2rem;
+
+        p {
+            font-size: .28rem;
+            line-height: .34rem;
+            padding-top: .2rem;
+            padding-left: .2rem;
+        }
+
+        img {
+            width: .24rem;
+            height: .24rem;
+            border-radius: .12rem;
+            margin-left: .2rem;
+        }
+    }
+}
+
+.mbqq-logo {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 7.5rem;
+    height: .58rem;
+
+    img {
+        width: 100%;
+        height: 100%;
+    }
+}
+
+.mbqq-con2 {
+    width: 7.5rem;
+    height: 7.38rem;
+    // background: brown;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.mbqq-con2-c {
+    width: 3.75rem;
+    height: 2.46rem;
+    // background: cadetblue;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+.mbqq-con2-txt {
+    width: 3.75rem;
+    height: 1.22rem;
+
+    // background: chartreuse;
+    a {
+        display: inline-block;
+        margin-top: .18rem;
+        margin-left: .18rem;
+        font-size: .28rem;
+        line-height: .34rem;
+        color: rgb(51, 51, 51);
+    }
+
+    img {
+        width: .7rem;
+        height: .28rem;
+        margin-left: .1rem;
+    }
+
+    p {
+        display: block;
+        font-size: .24rem;
+        margin-left: .18rem;
+        color: rgb(153, 153, 153);
+    }
+}
+
+#jgyx {
+    color: rgb(151, 61, 255);
+}
+
+#tttj {
+    color: rgb(255, 54, 9);
+}
+
+.mbqq-con2-img {
+    height: 1.24rem;
+    width: 1.87rem;
+
+    // background: chocolate;
+    img {
+        width: 1.24rem;
+        width: 1.24rem;
+        margin-left: .3rem;
+    }
+}
+
+.mbqq-con3 {
+    width: 7.5rem;
+    height: 2.46rem;
+    // background: crimson;
+    display: flex;
+    flex-wrap: nowrap;
+}
+
+.mbqq-con3-c {
+    width: 1.875rem;
+    height: 2.46rem;
+
+    // background-color:green;
+    p {
+        display: inline-block;
+        font-size: .28rem;
+        margin-left: .18rem;
+        margin-top: .18rem;
+        color: rgb(51, 51, 51);
+    }
+
+    span {
+        display: inline-block;
+        font-size: .24rem;
+        margin-left: .18rem;
+        color: rgb(153, 153, 153);
+    }
+
+    img {
+        width: 1.24rem;
+        height: 1.24rem;
+        margin-left: 0.3rem;
+        margin-top: .1rem;
+    }
+}
+
+.tbzhongchou {
+    margin-top: 10px;
+    height: 4.92rem;
+    width: 7.5rem;
+    background: #fff;
+}
+
+.tbzc-con {
+    height: 2.46rem;
+    width: 7.5rem;
+    display: flex;
+    flex-wrap: nowrap;
+    ;
+}
+
+.genduofuwu {
+    width: 7.5rem;
+    height: .92rem;
+    background-color: #fff;
+
+    img {
+        width: 3.75rem;
+        height: .72rem;
+        margin-top: .2rem;
+    }
+
+    a {
+        display:block;
+        font-size: .24rem;
+        color: rgb(51, 51, 51);
+        text-align: right;
+        float: right;
+        margin-top: .4rem;
+        margin-right: .2rem;
+    }
+}

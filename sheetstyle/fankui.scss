@@ -1,0 +1,109 @@
+.fankui-head {
+    background: -webkit-gradient(linear, 0 0, 0 100%, from(#e8e8e8), to(#dfdfdf));
+    height: 1rem;
+    text-align: center;
+    position: relative;
+
+    p {
+        line-height: 1rem;
+        font-size: .36rem;
+        font-weight: 700;
+        color: #333;
+        white-space: nowrap;
+        text-overflow: ellipsis;
+    }
+
+    a {
+        display: block;
+        border-color: #d4d5d6;
+        border-bottom-color: #b4b4b4;
+        background: -webkit-gradient(linear, 0 0, 0 100%, from(#fefefe), to(#e8e8e8));
+        color: #666;
+        width: 1.18rem;
+        height: .6rem;
+        line-height: .6rem;
+        border-left: 0;
+        text-align: center;
+        position: absolute;
+        left: .5rem;
+        top: .2rem;
+    }
+}
+
+.wihte-box {
+    height: .4rem;
+    width: 100%;
+    background-color: #fff;
+}
+
+.fankui-input1 {
+    width: 7.1rem;
+    height: .7rem;
+    margin: 0 auto;
+    display: flex;
+    flex-wrap: nowrap;
+    justify-content: space-between;
+    margin-bottom: .4rem;
+
+    p {
+        font-size: .28rem;
+        line-height: .7rem;
+    }
+
+    input {
+        width: 5.08rem;
+        height: .66rem;
+        margin-top: .02rem;
+        box-sizing: border-box;
+        border: solid .02rem #DDD;
+        border-top-color: #BBB;
+        padding-left: .18rem;
+        color: #333;
+        -webkit-appearance: none;
+        background: -webkit-gradient(linear, 0 0, 0 100%, from(#f5f5f5), to(#fdfdfd));
+    }
+}
+
+.xuanzhe {
+    color: #333;
+    font-size: .28rem;
+    width: 5.08rem;
+    height: .66rem;
+    background: #fff;
+    border: solid .02rem #d5d5d5;
+}
+
+.fk-text {
+    width: 7.1rem;
+    height: 6.26rem;
+    margin: 0 auto;
+
+    textarea {
+        width: 7.1rem;
+        height: 6.26rem;
+        padding: .1rem;
+        line-height: .4rem;
+        font-size: .28rem;
+        background: #FFF;
+        border-top: .02rem solid #E9E9E9;
+        border-left: .02rem solid #C5C5C5;
+        border-right: .02rem solid #C5C5C5;
+        border-bottom: .02rem solid #969696;
+        border-radius: .08rem;
+        position: relative;
+        z-index: 1;
+        box-shadow: 0 4px 6px rgba(0,0,0,.3);
+    }
+}
+.fabiao{
+    margin: .5rem .2rem;
+    background-color: #ddd;
+    color: #f5f5f5;
+    display: block;
+    height: .72rem;
+    line-height: .72rem;
+    font-size: .24rem;
+    border-radius: .08rem;
+    z-index: 99;
+    text-align: center;
+}

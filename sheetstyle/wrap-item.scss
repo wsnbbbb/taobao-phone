@@ -1,0 +1,88 @@
+.page{
+    background: #f4f4f4;
+}
+.wrap-item{
+    margin-top: -0.2rem;
+    overflow: hidden;
+    border-radius: 2.5rem/.2rem;
+    border-bottom-left-radius: 0;
+    border-bottom-right-radius: 0;
+    background: #fff;
+}
+.wrap-item-nav{
+    display: flex;
+    overflow: hidden;
+    height: 3.2rem;
+    width: 7.5rem;
+    // place-self: flex-start;
+    position: relative;
+    flex-wrap: wrap;
+    background: #fff;
+}
+.wrap-con{
+    display: flex;
+    // overflow: hidden;
+    width: 1.22rem;
+    height: 1.34rem;
+    margin-left: .22rem;
+    margin-top: .26rem;
+    // -webkit-box-orient: vertical;
+    flex-wrap: wrap;
+}
+.wrap-con-1{
+    display: block;
+    display: flex;
+    overflow: hidden;
+    width: 1.22rem;
+    height: .96rem;
+}
+.wrap-con-logo{
+    width: 100%;
+    height: 100%;
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: contain;
+}
+.tianmao{
+    background-image: url(https://gw.alicdn.com/tfs/TB1Wxi2trsrBKNjSZFpXXcXhFXa-183-144.png_.webp);
+}
+.juhuasuan{
+    background-image: url(https://img.alicdn.com/tfs/TB10UHQaNjaK1RjSZKzXXXVwXXa-183-144.png?getAvatar=1_.webp);
+}
+.tianmaogj{
+    background-image: url(https://gw.alicdn.com/tfs/TB11rTqtj7nBKNjSZLeXXbxCFXa-183-144.png?getAvatar=1_.webp);
+}
+.waimai{
+    background-image: url(https://gw.alicdn.com/tps/TB1eXc7PFXXXXb4XpXXXXXXXXXX-183-144.png?getAvatar=1_.webp);
+}
+.tianmaocs{
+    background-image: url(https://gw.alicdn.com/tfs/TB1IKqDtpooBKNjSZFPXXXa2XXa-183-144.png_.webp);
+}
+.chongzhizx{
+    background-image: url(https://gw.alicdn.com/tfs/TB1o0FLtyMnBKNjSZFoXXbOSFXa-183-144.png_.webp);
+}
+.feizhulx{
+    background-image: url(https://gw.alicdn.com/tfs/TB15nKhtpkoBKNjSZFEXXbrEVXa-183-144.png?getAvatar=1_.webp);
+}
+.lingjinbi{
+    background-image: url(https://gw.alicdn.com/tfs/TB1BqystrZnBKNjSZFrXXaRLFXa-183-144.png?getAvatar=1_.webp);
+}
+.paimai{
+    background-image: url(https://gw.alicdn.com/tfs/TB1CMf4tlnTBKNjSZPfXXbf1XXa-183-144.png?getAvatar=1_.webp);
+}
+.fenlei{
+    background-image: url(https://gw.alicdn.com/tfs/TB18P98tyQnBKNjSZFmXXcApVXa-183-144.png?getAvatar=1_.webp);
+}
+.wrap-con-name{
+    display: inline-block;
+    overflow: hidden;
+    font-size: .22rem;
+    height: auto;
+    margin-top: .1rem;
+    text-align: center;
+    color: rgb(102, 102, 102);
+    width: 1.22rem;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    line-height: .28rem;
+}

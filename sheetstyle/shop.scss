@@ -1,0 +1,79 @@
+.shop{
+    width: 7.5rem;
+    height: 8.94rem;
+    background-color: #fff;
+    margin-top: .2rem;
+}
+#teshehaodian{
+    color: rgb(254, 215, 11);
+    margin-top: 1.4rem;
+}
+#godshop{
+    width: 1.76rem;
+    height: .38rem;
+    position: absolute;
+    right: .4rem;
+    top: 2rem;
+    background: url(https://gw.alicdn.com/tfs/TB1KdOYQFXXXXc_aXXXXXXXXXXX-264-57.png_.webp);
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: contain;
+    color: rgb(255, 255, 255);
+    text-align: center;
+    line-height: .38rem;
+    font-size: .24rem;
+}
+.shop-con{
+    height: 6.2rem;
+    width: 7.5rem;
+    background: #ffffff;
+    margin-top: .2rem;
+    display: flex;
+    flex-wrap: wrap;
+}
+.shop-con-c{
+    width: 3.75rem;
+    height: 3.1rem;
+    // background: hotpink;
+    padding-left: .2rem; 
+}
+.shop-con-txt{
+    width: 100%;
+    height: .48rem;
+    margin-bottom: .16rem;
+    background: #ffffff;
+    p{
+        display: inline-block;
+        font-size: .28rem;
+        color: rgb(51, 51, 51);
+    }
+    span{
+        font-size: .24rem;
+        margin-left: .08rem;
+    color: rgb(153, 153, 153);
+    }
+}
+.shop-con-img{
+    width: 3.35rem;
+    height: 2.22rem;
+    // background: black;
+    position: relative;
+}
+.shop-img1{
+    width: 2.22rem;
+    height: 2.22rem;
+    position: absolute;
+}
+.shop-img2{
+    width: 1.1rem;
+    height: 1.1rem;
+    margin-left: 2.25rem;
+    position: absolute;
+}
+.shop-img3{
+    width: 1.1rem;
+    height: 1.1rem;
+    margin-left: 2.25rem;
+    margin-top: 1.12rem;
+    position: absolute;
+}

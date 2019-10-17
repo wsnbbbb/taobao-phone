@@ -1,0 +1,143 @@
+.zhuche-head {
+    background: #e6e6e6;
+    border-bottom: .02rem #c1c1c5 solid;
+    position: relative;
+    padding: .06rem 0;
+    background-image: linear-gradient(#f2f2f2, #e6e6e6);
+
+    h1 {
+        margin: 0 auto;
+        line-height: .8rem;
+        text-align: center;
+        height: .8rem;
+        overflow: hidden;
+        font-size: .4rem;
+        font-weight: 400;
+        color: #333;
+    }
+
+    a {
+        background: #e6e6e6;
+        background-image: linear-gradient(#f2f2f2, #e6e6e6);
+        border: .02rem #c1c1c5 solid;
+        color: #888;
+        top: .16rem;
+        display: inline-block;
+        width: auto;
+        padding: .08rem .2rem;
+        font-size: .28rem;
+        line-height: .4rem;
+        border-radius: .12rem;
+        position: absolute;
+        left: .1rem;
+    }
+}
+.zhuche-con{
+    margin-top: .2rem;
+    p{
+        font-size: .28rem;
+        padding-left: .2rem;
+    }
+}
+.am-list{
+    padding: .12rem 0;
+    height: 1.88rem;
+    margin-top: .2rem;
+}
+.am-list-item{
+    position: relative;
+    z-index: 1;
+    overflow: inherit;
+    padding-top: .08rem;
+    padding-bottom: .08rem;
+    padding-left: .3rem;
+    padding-right: .3rem;
+    margin-left: 0;
+    margin-right: 0;
+    border-right-width: 0;
+    border-left-width: 0;
+    border-color: #d2d2d2;
+    border-top-width: 0;
+    min-height: .64rem;
+    border: .02rem solid #d2d2d2;
+    background-color: #fff;
+    color: #000;
+    vertical-align: middle;
+    display: flex;
+    flex-wrap: nowrap;
+    height: .9rem;
+}
+.zhuche-txt{
+    margin-right: .3rem;
+    text-align: left;
+    font-size: .32rem;
+    color: #000;
+    line-height: .8rem;
+}
+.choose-area{
+   width: 4.9rem;
+   height: .48rem;
+   padding-top: .1rem;
+   select{
+    width: auto;
+    float: right;
+    font-size: 16px;
+    background-color: transparent;
+    border: none;
+    option{
+        font-size: .32rem;
+        background-color:#fff;
+    }
+   }
+}
+.ph-num{
+    padding-top: .1rem;
+    padding-bottom: .1rem;
+    font-size: .32rem;
+    -webkit-appearance: none;
+    width: 80%;
+    padding: 0;
+    border: 0;
+    background-color: transparent;
+}
+.huakuai{
+    width: 6.9rem;
+    height: 1.1rem;
+    position: relative;
+    box-shadow: 0 0 .06rem #999;
+    background-color: #ddd;
+    margin: .3rem auto;
+    p{
+        line-height: 1.04rem;
+    height: 1.04rem;
+    text-align: center;
+    font-size: .32rem;
+    display: block;
+    width: 100%;
+    color: #333;
+    }
+}
+.huadong{
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 1.04rem;
+    height: 1.06rem;
+    background-color: #fff;
+    cursor: pointer;
+}
+.icon-shuangjiantou{
+    display: block;
+    font-size: .4rem!important;
+    text-align: center;
+    line-height: 1.04rem;
+    color:#dbdbdb ;
+}
+.zhuche-bot{
+    color: #6C6C6C;
+    font-size: .28rem;
+    text-align: center;
+    a{
+        color: #f40;
+    }
+}

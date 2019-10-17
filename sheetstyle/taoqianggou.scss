@@ -1,0 +1,71 @@
+.taoqianggou{
+    margin-top: .2rem;
+    width: 7.5rem;
+    height: 4.48rem;
+    display: flex;
+    flex-wrap: wrap;
+    background: #ffffff;
+}
+.tqg-con{
+    width: 3.75rem;
+    height: 2.24rem;
+    display: flex;
+    flex-wrap:nowrap;
+}
+.tqg-con-l{
+   height: 2.24rem;
+   width: 1.875rem;
+   overflow: hidden;
+}
+.tqg-con-r{
+    height: 2.24rem;
+    width: 1.875rem;
+   img{
+       display: block;
+       width: 1.58rem;
+       height: 1.85rem;
+       margin: 0 auto;
+       margin-top: .2rem;
+   }
+ }
+.tqg-con-title{
+    display: block;
+    width: 3.75rem;
+    height: .52rem;
+}
+.tqg-con-txt{
+    font-size: .24rem;
+    text-align: left;
+    color: rgb(153, 153, 153);
+    white-space: nowrap;
+    line-height: .3rem;
+    margin-top: .1rem;
+    margin-left: .2rem;
+}
+.tqg-con-l a{
+    display: block;
+    margin-top: .2rem;
+    height: 1.35rem;
+    img{
+        display: block;
+        width: 1.44rem;
+        height: 1.16rem;
+        margin: 0 auto;
+    }
+}
+.tqg-con-lift{
+    height: 2.24rem;
+    width: 1.875rem;
+    overflow: hidden;
+ }
+
+.tqg-con-lift a{
+    display: block;
+    height: 1.35rem;
+    img{
+        display: block;
+        width: 1.44rem;
+        height: 1.16rem;
+        margin: 0 auto;
+    }
+}

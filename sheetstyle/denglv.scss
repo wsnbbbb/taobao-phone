@@ -1,0 +1,73 @@
+.denglv-bg {
+    width: 100%;
+    height: 13.34rem;
+    background-color: #fff;
+    padding-top: .94rem;
+}
+
+.denglv-logo {
+    width: 1.6rem;
+    height: 1.6rem;
+    background: url(https://gw.alicdn.com/tfs/TB1p.BGQXXXXXbFXFXXXXXXXXXX-160-160.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+    margin: 0 auto;
+}
+
+.denglv-input {
+    width: 6.58rem;
+    height: 2rem;
+    margin: 0 auto;
+    color: #333;
+    position: relative;
+    margin-right: .46rem;
+}
+
+.denglv-i-1 {
+    position: relative;
+    width: 100%;
+    margin: .9rem 0 0;
+    border-bottom: 1px solid #ff5000;
+    font-size: .32rem;
+}
+
+.dl-1 {
+    width: 5.8rem;
+    margin: 0 0 .13rem .09rem;
+    outline: none;
+    border: 0;
+    color: #333
+}
+
+.yanzheng {
+    font-size: .28rem;
+    margin: .44rem auto 0;
+    display: flex;
+    width: 85%;
+    flex-flow: row nowrap;
+    justify-content: space-between;
+
+    a {
+        color: #555;
+    }
+}
+
+.dneglv-btn {
+    font-size: .28rem;
+    width: 6.58rem;
+    margin: .71rem auto 0;
+
+    button {
+        background: -webkit-linear-gradient(left,#ff9000,#ff5000) no-repeat;
+        color: #fff;
+        box-shadow: 0 .06rem .12rem 0 #f7c7b1;
+        font-size: .32rem;
+        width: 100%;
+        height: .86rem;
+        line-height: .86rem;
+        border-radius: .45rem;
+        text-align: center;
+        border: 0;
+        outline: 0;
+    }
+}

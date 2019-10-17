@@ -1,0 +1,20 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+ul,li ,ol {
+    list-style: none;
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+html{
+    font-size: -moz-calc((100*100vw) / 750);
+    font-size: -webkit-calc((100*100vw) / 750);
+    font-size: calc((100*100vw) / 750);
+}
+body{
+    font-size: 0.28rem;
+}

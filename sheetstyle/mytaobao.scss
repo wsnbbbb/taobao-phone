@@ -1,0 +1,206 @@
+.mytb-head {
+    width: 7.5rem;
+    height: 2.02rem;
+    background-image: linear-gradient(to right, #FD9126, #FF5000);
+}
+
+.mytb-header {
+    width: 7.5rem;
+    height: 1.62rem;
+    position: relative;
+
+    img {
+        margin-left: .36rem;
+        margin-top: .56rem;
+        width: .98rem;
+        height: .98rem;
+        border-radius: 50%;
+        position: absolute;
+        left: 0;
+        top: 0;
+    }
+}
+
+.mtyb-id {
+    position: absolute;
+    font-size: .4rem;
+    color: #ffffff;
+    width: 4rem;
+    margin-top: .5rem;
+    margin-left: 1.58rem;
+    font-weight: bold;
+
+    span {
+        text-overflow: ellipsis;
+        overflow: hidden;
+        line-height: .48rem;
+        white-space: nowrap;
+    }
+}
+
+.mtyb-id-r1 {
+    display: block;
+    width: .4rem;
+    height: .4rem;
+    position: absolute;
+    right: 1.5rem;
+
+    img {
+        width: .4rem;
+        height: .4rem;
+    }
+}
+
+.mtyb-id-r2 {
+    display: block;
+    width: .4rem;
+    height: .4rem;
+    position: absolute;
+    right: .8rem;
+
+    img {
+        width: .4rem;
+        height: .4rem;
+    }
+}
+
+.mytb-nav {
+    width: 7.5rem;
+    height: 1.58rem;
+    border: none;
+    margin-top: -0.02rem;
+    background-image: linear-gradient(to right, #FD9126, #FF5000);
+}
+
+.mytb-nav-1 {
+    width: 5.46rem;
+    height: 1.22rem;
+    display: flex;
+    flex-wrap: nowrap;
+}
+
+.mytb-nav-scj {
+    width: 1.82rem;
+    height: 1.22rem;
+    text-align: center;
+
+    span {
+        font-size: .28rem;
+        color: #ffffff;
+    }
+
+    p {
+        display: block;
+        margin-top: .2rem;
+        font-size: .24rem;
+        color: #ffffff;
+    }
+}
+
+.mydingdan {
+    width: 7.5rem;
+    height: 2.53rem;
+    position: relative;
+    // background-color: red;
+    margin-top: .2rem;
+}
+
+.mydd-con {
+    width: 7.02rem;
+    height: 2.29rem;
+    margin-left: .24rem;
+    margin-right: .24rem;
+    border-radius: .24rem;
+    background-color: #ffffff;
+}
+
+.mydd-con-t {
+    width: 7.02rem;
+    height: .76rem;
+    display: flex;
+    flex-wrap: nowrap;
+    justify-content: space-between;
+    align-items: center;
+    border-bottom: .01rem solid #EEEEE7;
+}
+
+.mydd-con-l {
+    width: 1.12rem;
+    height: .6rem;
+    font-size: .28rem;
+    margin-left: .23rem;
+    color: rgb(51, 51, 51);
+    font-weight: bold;
+    line-height: .6rem;
+}
+
+.mydd-con-r {
+    font-size: .24rem;
+    margin-right: .5rem;
+    color: rgb(153, 153, 153);
+}
+
+.mydd-con-b {
+    width: 7.02rem;
+    height: 1.52rem;
+    padding-left: .3rem;
+    display: flex;
+    flex-wrap: nowrap;
+    justify-content: space-around;
+}
+
+.mydd-con-dfk {
+    width: 1.44rem;
+    height: 1.52rem;
+}
+
+.mydd-con-img {
+    width: .58rem;
+    height: .58rem;
+    margin-top: .34rem;
+}
+
+.mydd-con-txt{
+    padding-top: .1rem;
+    text-align: center;
+    font-size: .24rem;
+    color: #666666;
+}
+.bibeigj{
+    width: 100%;
+    height: 4.11rem;
+    margin-top: .2rem;
+    // background: chartreuse;
+}
+.bibeigj-con{
+    width: 7.02rem;
+    height: 4.11rem;
+    margin-left: .24rem;
+    border-radius: .24rem;
+    background-color: #FFFFFF;
+}
+.bibeigj-con-nav{
+    width: 7.02rem;
+    height: 3.08rem;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+.gongju{
+    width: 1.754rem;
+    height: 1.54rem;
+}
+.gongju-img{
+    display: block;
+    width: .64rem;
+    height: .64rem;
+    margin-top: .25rem;
+    margin-left: .556rem;
+}
+.gongju-name{
+    width: 100%;
+    font-size: .24rem;
+    color: #666666;
+    text-align: center;
+    padding-top: .1rem;
+}

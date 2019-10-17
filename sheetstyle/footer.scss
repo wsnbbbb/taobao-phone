@@ -1,0 +1,34 @@
+.footer{
+    display: flex;
+    position: fixed;
+    flex-wrap: nowrap;
+    left: 0;
+    bottom: 0;
+    width: 7.5rem;
+    height: .78rem;
+    z-index: 1001;
+    background-color: #ffffff;
+    border-top: .02rem solid #e7e7e7;
+    border-bottom: .02rem solid #f8f8f8;
+    justify-content: space-between;
+    padding: 0 .4rem;
+    padding-top: .04rem;
+}
+.foot-con{
+    display: block;
+    width: 1.2rem;
+    height: .78rem;
+    color: #5d656b;
+    text-align: center;
+    margin-bottom: .2rem;
+    i{
+        font-size: .44rem!important;
+        height: .44rem;
+        line-height: .44rem;
+        color: #5D656B;
+    }
+    p{
+        font-size: .22rem;
+        transform: scale(0.8);
+    }
+}
